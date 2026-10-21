@@ -31,3 +31,10 @@ Commands:
 
 ## Algorithm
 The solver uses recursive backtracking to find a valid solution while respecting Sudoku constraints.
+## How to Play
+
+Run the game with Python 3.8 or newer:
+
+python sudoku.py
+
+Follow the on-screen instructions to enter moves, clear cells, solve the puzzle, or quit the game.
